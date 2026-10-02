@@ -29,3 +29,11 @@ function Divison() {
     let y = Number(document.getElementById('num2').value);
     document.getElementById("demo").innerHTML = x / y;
 }
+
+function Modulus() {
+    // let x=100;
+    // y=200;
+    let x = Number(document.getElementById('num1').value);
+    let y = Number(document.getElementById('num2').value);
+    document.getElementById("demo").innerHTML = x % y;
+}
