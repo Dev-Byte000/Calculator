@@ -44,7 +44,7 @@ python calculator.py
 
 1. Launch the calculator.
 2. Enter the first number.
-3. Choose an operator (`+`, `-`, `×`, `÷`).
+3. Choose an operator (`+`, `-`, `×`, `÷`, `%`).
 4. Enter the second number.
 5. Press `=` to see the result.
 6. Press `C` to clear and start again.
